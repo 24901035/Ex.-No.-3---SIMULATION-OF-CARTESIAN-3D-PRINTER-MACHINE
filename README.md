@@ -61,8 +61,8 @@
 ## Output:
 ![Screenshot 2025-05-02 162922](https://github.com/user-attachments/assets/88c7d253-6447-4d41-9e26-8082f87caedc)
 
-### Name: 
-### Register Number:
+### Name: MOHAN R
+### Register Number:212224230168
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
